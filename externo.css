@@ -1,0 +1,12 @@
+h1{
+    font-style: italic;
+    font-size: 30px;
+}
+h2{
+    font-style: inherit;
+    font-size: 20px;
+}
+h3{
+    font-style: oblique;
+    font-size: 20px;
+}
